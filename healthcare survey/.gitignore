@@ -13,12 +13,9 @@ env/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
+
 
 # Environment files
-.env
-.env.local
-.env.*.local
 
 # IDE
 .vscode/
@@ -32,8 +29,6 @@ env/
 *.db
 
 # Local development
-*.csv   # Uncomment if you don't want to track CSV files
-data/   # Uncomment if you don't want to track data directory
 
 # Render deployment
 .render/
